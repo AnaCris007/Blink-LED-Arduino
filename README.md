@@ -18,6 +18,8 @@ Nesta etapa, o foco foi controlar um LED externo conectado ao Arduino, aplicando
 
 ![Blick Led externo](BlinkExterno.png)
 ![Led Aceso](ledHighExterno.jpeg)
+[Link ThikerCad Projeto](https://www.tinkercad.com/things/3O2eazIrl0x-blink-externo)
+
 [Blink LED Externo](https://youtube.com/shorts/Ro9UNPU7tAk?feature=share)
 
 ---
